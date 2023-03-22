@@ -1,0 +1,54 @@
+[
+    {
+        "company" : "U GIE IRIS",
+        "title" : "Infrastructure Administrator",
+        "duration" : "October 2020 - Present",
+        "description" : 
+        [
+            "Automation of hardened database installation procedures with ansible",
+            "Implementation of a High Availability system for postgresql 14 with Patroni and ETCD",
+            "Improvement of the management of the audit files of our oracle database with an adrci script",
+            "Creation of a custom WSL packaged development environment for Ansible, based on Almalinux, installable with a Powershell script."
+        ]
+        
+    },
+    {
+        "company" : "Le Cabestan St Gilles-Croix-de-Vie",
+        "title" : "Waiter and Room manager",
+        "duration" : "July 2020 - August 2020",
+        "description" : 
+        [
+            "Waiter in a restaurant team of 7 people.",
+                "Team work",
+                "Management of the customer relationship",
+                "Organization of tasks"
+        ]
+        
+    },
+    {
+        "company" : "Charles Péguy High School",
+        "title" : "Network Administrator",
+        "duration" : "January 2020 - February 2020",
+        "description" : 
+        [
+            "Management of the entire high school computer system, in team with another network administrator.",
+            "PC hardware & software troubleshooting;",
+            "Android software troubleshooting (root, mdm, ROM management)",
+            "Computer Asset Management (WAPT, Veyon)",
+            "Network architecture management (StormShield, cabling, switch management)"
+        ]
+        
+    },
+        {
+        "company" : "AFACE",
+        "title" : "Web Developper",
+        "duration" : "May 2019 - June 2019",
+        "description" : 
+        [
+            "Complete development of a showcase website manageable by the members of the association.",
+            "Technos : MySQL, PHP, JavaScript, HTML, CSS, Git",
+            "https://laface.site (non-renewed domain name)"
+        ]
+        
+    }
+]

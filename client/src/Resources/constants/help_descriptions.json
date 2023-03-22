@@ -1,0 +1,18 @@
+[
+    {
+        "command":"clear",
+        "description":"clears command window"
+    },
+    {
+        "command":"ls",
+        "description":"list all files"
+    },
+    {
+        "command":"open file_name",
+        "description":"open a file"
+    },
+    {
+        "command":"reset",
+        "description":"reset all files"
+    }
+]

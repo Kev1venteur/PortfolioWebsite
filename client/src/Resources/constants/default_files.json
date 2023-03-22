@@ -1,0 +1,34 @@
+[
+    {
+        "type" : "file",
+        "name" : "aboutMe.data",
+        "path" : "kevin@gillet:~$",
+        "privileges" : ["read","write"],
+        "contents":"../../Components/About/About.js",
+        "owner" : []
+    },
+    {
+        "type" : "file",
+        "name" : "experience.data",
+        "path" : "kevin@gillet:~$",
+        "privileges" : ["read","write"],
+        "contents":"../../Components/Experience/Experience.js",
+        "owner" : []
+    },
+    {
+        "type" : "file",
+        "name" : "work.data",
+        "path" : "kevin@gillet:~$",
+        "privileges" : ["read","write"],
+        "contents" : "../../Components/Work/Work.js",
+        "owner" : []
+    },
+    {
+        "type" : "file",
+        "name" : "snakeGame.exe",
+        "path" : "kevin@gillet:~$",
+        "contents" : "../../Components/SnakeGame/SnakeGame.js",
+        "privileges" : ["read","write","execute"],
+        "owner" : []
+    }
+]
